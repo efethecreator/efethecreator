@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hello, I'm Murat Efe! 👋
 
-<!--
-**efethecreator/efethecreator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A fullstack development learner from Turkey.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📍 Kayseri, Turkey
+- ✉️ muratefe@jxpuniworkhub.com
+
+
+
+## Skills
+
+- **Programming Languages:** Go, TypeScript, HTML, CSS, React, Javascript, TailwindCSS, 
+- **Databases:** MongoDB, SQLite3
+
+## Contact
+
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/murat-efe-%C3%A7etin-5331962a9/)
+
+## Links
+
+- [My GitHub Profile](https://github.com/efethecreator)
